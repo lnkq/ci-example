@@ -8,5 +8,5 @@ func main() {
 }
 
 func sayHello(name string) string {
-	return "Hello, " + name + "!"
+	return "Hello, " + name + "! <3"
 }
